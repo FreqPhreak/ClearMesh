@@ -3,11 +3,11 @@ ClearMesh intends to be a fully open-source Android companion app designed to en
 
 # Key Features
 
-🔹 Bluetooth Device Management – Effortlessly scan, pair, and manage MeshCore devices. 
-🔹 LoRa Network Configuration – Customize radio parameters, fine-tune settings, and optimize network performance. 
-🔹 Defined Hop Messaging – Control message routing with user-specified hop limits for more efficient packet delivery. 
-🔹 Mesh Presence & Discovery – View nearby users, track repeater nodes, and visualize your Mesh network in real time. 
-🔹 100% Open-Source – Released under a GNU GPL v3 license, ensuring full transparency and community-driven innovation.
+🔹 Bluetooth Device Management – Effortlessly scan, pair, and manage MeshCore devices. <br />
+🔹 LoRa Network Configuration – Customize radio parameters, fine-tune settings, and optimize network performance. <br />
+🔹 Defined Hop Messaging – Control message routing with user-specified hop limits for more efficient packet delivery. <br />
+🔹 Mesh Presence & Discovery – View nearby users, track repeater nodes, and visualize your Mesh network in real time. <br />
+🔹 100% Open-Source – Released under a GNU GPL v3 license, ensuring full transparency and community-driven innovation. <br />
 
 # Mission & Vision
 
