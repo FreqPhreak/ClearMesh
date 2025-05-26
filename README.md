@@ -1,4 +1,6 @@
-<div align="centre"><img src="https://github.com/user-attachments/assets/9cca3089-5638-46e4-98fc-154dc61ec727" width="300" height="300"></div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9cca3089-5638-46e4-98fc-154dc61ec727" width="300" height="300">
+</div>
 
 # ClearMesh
 ClearMesh intends to be a fully open-source Android companion app designed to enhance MeshCore functionality without the limitations of closed-source software or in-app purchases. Built for privacy, transparency, and decentralization, ensuring users retain full control over their mesh networking experience. By leveraging GNU GPL v3, ClearMesh guarantees that all modifications and improvements remain accessible to the community, fostering collaboration and innovation in the open-source space.
