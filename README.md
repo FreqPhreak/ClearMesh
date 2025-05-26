@@ -15,3 +15,11 @@ ClearMesh intends to be a fully open-source Android companion app designed to en
 # Mission & Vision
 
 ClearMesh exists to provide an unrestricted, fully customizable mesh networking experience for everyone. Whether facilitating off-grid messaging, decentralized communications, or experimental routing techniques, ClearMesh aims to be a free, community-driven alternative to proprietary solutions.
+
+# Expected Release: TBC
+
+# Pre-Release App Concepts:
+
+![Screenshot_20250526_133252](https://github.com/user-attachments/assets/73e14c62-7e23-4a59-a76a-030c39a41aef)
+![Screenshot_20250526_133236](https://github.com/user-attachments/assets/eedb8eef-46b8-4c4b-83ab-c5680996709e)
+![Screenshot_20250526_133003](https://github.com/user-attachments/assets/ec4e4d7f-1c0b-4d81-b39f-0fbd0b8ac90e)
