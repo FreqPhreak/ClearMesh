@@ -20,8 +20,9 @@ ClearMesh exists to provide an unrestricted, fully customizable mesh networking 
 # Expected Release: TBC
 
 # Pre-Release App Concepts:
-
-<img src="https://github.com/user-attachments/assets/ec4e4d7f-1c0b-4d81-b39f-0fbd0b8ac90e" width="200" height="500">
-<img src="https://github.com/user-attachments/assets/73e14c62-7e23-4a59-a76a-030c39a41aef" width="200" height="500">
-<img src="https://github.com/user-attachments/assets/eedb8eef-46b8-4c4b-83ab-c5680996709e" width="200" height="500">
+<div align="center">
+<img src="https://github.com/user-attachments/assets/ec4e4d7f-1c0b-4d81-b39f-0fbd0b8ac90e" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/73e14c62-7e23-4a59-a76a-030c39a41aef" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/eedb8eef-46b8-4c4b-83ab-c5680996709e" width="200" height="400">
+</div>
 
